@@ -14,7 +14,7 @@ Install Python packages:
 python -m pip install Pillow pytesseract
 ```
 
-Double-click `setup_and_run.bat` to check/install the Python packages and launch the GUI. The GUI starts in English; use the language button in the upper-right corner to switch to Thai.
+Double-click `setup_and_run.bat` to check/install the Python packages and launch the GUI. The GUI starts in English;
 
 See [README_th.md](README_th.md) for Thai setup and usage instructions.
 
